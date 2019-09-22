@@ -1,0 +1,56 @@
+.rubrik {
+  display:flex;
+  font-size:100px;
+  justify-content: center;
+  background-image: url("4.png");
+  background-size: cover;
+  width: 100%;
+}
+
+div h1 {
+  font-size: 40px;
+}
+
+div h1 {
+  font-family:fantasy;
+  display: flex;
+  justify-content: center;
+
+
+}
+
+h4 {
+  font-family: cursive;
+
+}
+
+
+img {
+  
+  width:35%;
+  margin:40px;
+  border:solid 5px;
+  border-style:inset;
+  border-radius: 20%;
+}
+p {
+  background-color: #ffcccc;
+  width: auto;
+  height: 40px;
+}
+
+@media (max-width:768px) {
+  body {
+    background-color:#ffb3b3;
+
+  }
+}
+
+.kontaktInfo {
+  display:flex;
+  justify-content: center;
+  background-color: beige;
+  color:black;
+  width:auto;
+  height:25px;
+}
